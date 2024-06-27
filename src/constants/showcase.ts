@@ -1,5 +1,10 @@
 export const SHOWCASES = [
   {
+    title: "Nextjs Ecommerce",
+    image: "https://i.imgur.com/7lT5qDt.png",
+    link: "https://calis-store.vercel.app/",
+  },
+  {
     title: "React SPA Shop",
     image: "https://i.imgur.com/HTEvA9R.png",
     link: "https://react-shop-siza.vercel.app/products",
@@ -49,4 +54,9 @@ export const SHOWCASES = [
     image: "https://i.imgur.com/aCtfpcm.png",
     link: "https://emirs-shop.vercel.app",
   },
+  {
+    title: "Trending Shop",
+    image: "https://i.imgur.com/lN216wP.png",
+    link: "https://trending-shop.netlify.app/",
+  }
 ];
